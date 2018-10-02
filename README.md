@@ -14,7 +14,9 @@ Even though I've been trying to learn to code (on and off) for the past two year
 * **Stop Procrasting**
 * Complete three courses on https://www.udemy.com
 * Earn the Microsoft Professional Program Certificate in Front-End Web Development from https://www.edx.org/microsoft-professional-program-front-end-development: 
+
 ![Microsoft Cert PNG](images/microsoft_cert.png)
+
 * **Stop Procrasting**
 * Learn JavaScript
 * Get more comfortable with PostCSS
