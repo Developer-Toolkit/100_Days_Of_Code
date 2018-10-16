@@ -60,3 +60,4 @@ Even though I've been trying to learn to code (on and off) for the past two year
 
 ## Training & Video Tutorials
 There's so many different training and video tutorials out there all designed to help a person become a better developer that it can be hard to determine which tutorials to use. It doesn't help either that I have the attention span of a
+
