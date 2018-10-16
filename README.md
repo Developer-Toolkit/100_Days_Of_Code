@@ -64,6 +64,7 @@ There's so many different training and video tutorials out there all designed to
 ![Crazy Cat](/images/small_crazy_cat.gif)
 
 so I get distracted very easily by all the different resources out there. After months of constantly bouncing around from tutorial to tutortial I finally decdided which ones I wanted to use to help me reach my goals.
-1. Courses on:     
+1. Courses on:
+![Udemy Logo](/images/udemy-logo.jpg)
    
    
