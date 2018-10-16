@@ -61,3 +61,8 @@ Even though I've been trying to learn to code (on and off) for the past two year
 ## Training & Video Tutorials
 There's so many different training and video tutorials out there all designed to help a person become a better developer that it can be hard to determine which tutorials to use. It doesn't help either that I have the attention span of a
 
+![Crazy Cat](/images/small_crazy_cat.gif)
+
+so I get distracted very easily by all the different resources out there. After months of constantly bouncing around from tutorial to tutortial I finally decdided which ones I wanted to use to help me reach my goals.
+1. Courses on
+   
