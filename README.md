@@ -66,6 +66,7 @@ There's so many different training and video tutorials out there all designed to
 so I get distracted very easily by all the different resources out there. After months of constantly bouncing around from tutorial to tutortial I finally decdided which ones I wanted to use to help me reach my goals.
 1. Courses on: ![Udemy Logo](/images/udemy-logo.jpg)
    * ![Git Web](/images/Git_Web_Job.jpg)
+   * ![Zero](/images/zero.jpg)
    * ![Zero Master](/images/zero_to_master.jpg)
    
    
