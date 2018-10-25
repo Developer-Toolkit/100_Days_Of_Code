@@ -69,5 +69,7 @@ so I get distracted very easily by all the different resources out there. After 
    * ![Zero Master](images/zero_to_master.jpg)
    * ![Jr Sr](images/jr_to_sr.jpg)
    
+
+   
    
    
