@@ -12,11 +12,7 @@ Even though I've been trying to learn to code (on and off) for the past two year
 ## My Goals
 * **Become a Node Js Developer**
 * **Stop Procrasting**
-* Complete three courses on https://www.udemy.com
-* Earn the Microsoft Professional Program Certificate in Front-End Web Development from https://www.edx.org/microsoft-professional-program-front-end-development: 
-
-![Microsoft Cert PNG](images/microsoft_cert.png)
-
+* Complete two to three courses on https://www.udemy.com
 * **Stop Procrasting**
 * Learn JavaScript
 * Get more comfortable with PostCSS
@@ -63,12 +59,15 @@ There's so many different training and video tutorials out there all designed to
 
 ![Crazy Cat](/images/small_crazy_cat.gif)
 
-so I get distracted very easily by all the different resources out there. After months of constantly bouncing around from tutorial to tutortial I finally decdided which ones I wanted to use to help me reach my goals.
-1. Courses on: ![Udemy Logo](/images/udemy-logo.jpg)
-   * ![Git Web](images/git_web.jpg)
-   * ![Zero Master](images/zero_to_master.jpg)
-   * ![Jr Sr](images/jr_to_sr.jpg)
-2. 
+So I get distracted very easily by all the different resources out there. After months of constantly bouncing around from tutorial to tutortial I finally decdided which ones I wanted to use to help me reach my goals.
+* ![Zero Master](images/zero_to_master.jpg)
+* ![Jr Sr](images/jr_to_sr.jpg)
+
+At the same time, I'm going to apply to apply to Lambda School Full-Stack Web & Computer Science BootCamp course. I'm hoping that I get in so that I can add another sense of structure to my learning program. In addition, I going to take part in the 30 Days, 30 Website Challenge!!!
+
+I know it sounds like a lot of stuff to accomplish in 100 days but I'm so ready to get started and to change my life for the better!!!
+
+# START DATE: 1 NOV 18!!!!!
    
 
    
