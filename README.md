@@ -11,13 +11,13 @@ Even though I've been trying to learn to code (on and off) for the past two year
 
 ## My Goals
 * **Become a Node Js Developer**
-* **Stop Procrasting**
+* **Stop Procrastinating**
 * Complete two to three courses on https://www.udemy.com
-* **Stop Procrasting**
+* **Stop Procrastinating**
 * Learn JavaScript
 * Get more comfortable with PostCSS
 * Learn to write clean code
-* **Stop Procrasting**
+* **Stop Procrastinating**
 
 ## My Plan
 
