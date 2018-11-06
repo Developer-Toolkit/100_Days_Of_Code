@@ -1,4 +1,4 @@
-# MY 100_DAYS_OF_CODE EXPERIENCE
+# MY 100 DAYS OF CODE EXPERIENCE
 
 ![Coder GIF](/images/happy_coder.gif)
 
