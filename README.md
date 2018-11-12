@@ -1,4 +1,4 @@
-# MY 100 DAYS OF CODE EXPERIENCE
+# MY 100 DAYS OF CODE JOURNAL
 
 ![Coder GIF](/images/happy_coder.gif)
 
