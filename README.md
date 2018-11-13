@@ -9,7 +9,7 @@
 That is if you:
 
 <p align="center">
-  <img src="images/motivational_quote.jpg">
+  <img width="617" height="500" src="images/motivational_quote.jpg">
 </p>
 
 I have to admit that when I first attempted to code I really didn't believe in myself or what I was attempting to do. I really felt like a hampster in a cage who kept running and running on that wheel but wasn't getting anywhere fast. Eventually, I got so feed up with not making any headway, I just decided to quite all together and just play video games for the rest of my life. Lucky for me I'm very stubborn, pig headed and it takes a while before I really give up something. I know that if I really apply myself and put in the hardwork I eventually can become a Software Developer and change my life for the better. 
@@ -47,6 +47,9 @@ I know it sounds like a lot of stuff to accomplish in 100 days but I'm so ready 
 # Additional Rules
   * I will tweet about my progress every day -> using the hashtag #100DaysofCode.
   * I will push code to GitHub every day so that anyone can see my progress.
+  * I will update the (Log)[log.md] with the day's progress and provide a link so that others see my progress.
+  
+# Logs
    
 
    
