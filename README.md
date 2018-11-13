@@ -1,8 +1,13 @@
-# MY 100 DAYS OF CODE JOURNAL
+# WELCOME TO THE LAND OF CODZTAPIA
 
-![Coder GIF](/images/happy_coder.gif)
+<p align="center">
+  <img width="560" height="500" src="images/happy_coder.gif">
+</p>
 
-A visual journal of my coding journey.
+## WHERE ALL OF YOUR DREAMS AND DESIRES CAN BECOME A REALITY . . . 
+
+That is if you:
+
 
 Even though I've been trying to learn to code (on and off) for the past two years. I've decided that I'm going to do the 100 Days of Code Challange and I'm actually going to finish it this time. I may have tried to do this once or twice in the past but for various reasons I never really came close to actually finishing the challenge. However, this time I know that I'm going to finish the challenge this time because I finally took the time to:
 * Identify my Goals
