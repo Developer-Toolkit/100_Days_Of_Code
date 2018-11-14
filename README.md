@@ -74,18 +74,19 @@ So I get distracted very easily by all the different resources out there. After 
 
 <img align="center" width="300" height="150" src="images/jr_to_sr.jpg">
 
-At the same time, I'm going to apply to apply to Lambda School Full-Stack Web & Computer Science BootCamp course. I'm hoping that I get in so that I can add another sense of structure to my learning program. In addition, I going to take part in the 30 Days, 30 Website Challenge!!!
+At the same time, I'm going to apply to the Lambda School Full-Stack Web & Computer Science BootCamp course. I'm hoping that I get in so that I can add another sense of structure to my learning program. In addition, I going to take part in the 30 Days, 30 Website Challenge!!!
 
 I know it sounds like a lot of stuff to accomplish in 100 days but I'm so ready to get started and to change my life for the better!!!
 
 # START DATE: 1 NOV 18!!!!!
 
 # Additional Rules
-  * I will tweet about my progress every day -> using the hashtag #100DaysofCode.
+  * I will tweet about my progress every day -> using the hashtag #100DaysofCode on all of my social media accounts.
   * I will push code to GitHub every day so that anyone can see my progress.
   * I will update the (Log)[log.md] with the day's progress and provide a link so that others see my progress.
   
 # Logs
+[Round 1](R1.md)
    
 
    
