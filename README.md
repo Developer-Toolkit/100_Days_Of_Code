@@ -36,6 +36,7 @@ So to help me get where I want to be, I've decided that I'm going to do the 100 
   
 # Daily Journal Entries
 [My Plan & Tools](plan.md)
+
 [Round 1](R1.md)
 
 # START DATE: 1 NOV 18!!!!!
