@@ -45,7 +45,6 @@
 *Note: I got the plan from John Sonmez book "The Complete Software Developer's Career Guide. His sample plan pretty much sums up my current goals.*
 
 ## Massive Open Online Cources (MOOCs)
-
 There's so many different training and video tutorials out there all designed to help a person become a better developer that it can be hard to determine which tutorials to use. It doesn't help either that I have the attention span of a
 
 <img align="center" width="350" height="350" src="images/small_crazy_cat.gif">
