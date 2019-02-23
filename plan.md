@@ -8,8 +8,8 @@
 
 ### Learning Plan:
 
-* Learn the basics of JavaScript
 * Learn about web pages and web development technologies like HTML and CSS
+* Learn the basics of JavaScript
 * Learn the basics of Node.js
 * Be able to write some kind of simple Node.js web application
 * Learn about the different frameworks and technologies developers use to develop Node.js applications
