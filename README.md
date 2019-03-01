@@ -37,7 +37,7 @@ So to help me get where I want to be, I've decided that I'm going to do the 100 
 # Daily Journal Entries
 My journal entries will be an open and honest look at my daily coding progress. Some days will show a screenshot of what I coded, while other days will be my thoughts and reflections of how my progress is going. The main purpose of this is for me to code everyday for 100 days straight.
 
-[My Plan & Tools](plan.md)
+# [My Plan & Tools](plan.md)
 
 # [Round 1](R1.md)
 
