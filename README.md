@@ -41,9 +41,9 @@ My journal entries will be an open and honest look at my daily coding progress. 
 
 # Rounds
 
-## [Round 1](R1.md) - START DATE: 1 NOV 18!!!!!
+### [Round 1](R1.md) - START DATE: 1 NOV 18!!!!!
 
-## [Round 2](R2.md) - START DATE: 24 FEB 19!!!!
+### [Round 2](R2.md) - START DATE: 24 FEB 19!!!!
 
 
   
