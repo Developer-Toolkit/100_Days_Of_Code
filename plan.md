@@ -3,7 +3,7 @@
 ### Goal: Become a Node Js Developer
 
 <p align="center">
-  <img width="480" height="480" src="images/node_js.jpg">
+  <img width="480" height="480" src="images/plan-images/node_js.jpg">
 </p>
 
 ### Learning Plan:
@@ -47,13 +47,13 @@
 
 There's so many different training and video tutorials out there all designed to help a person become a better developer that it can be hard to determine which tutorials to use. It doesn't help either that I have the attention span of a
 
-<img align="center" width="350" height="350" src="images/small_crazy_cat.gif">
+<img align="center" width="350" height="350" src="images/plan-images/small_crazy_cat.gif">
 
 So I get distracted very easily by all the different resources out there. After months of constantly bouncing around from tutorial to tutortial I finally decdided which ones I wanted to use to help me reach my goals.
 
-<img align="center" width="300" height="150" src="images/zero_to_master.jpg">
+<img align="center" width="300" height="150" src="images/plan-images/zero_to_master.jpg">
 
-<img align="center" width="300" height="150" src="images/jr_to_sr.jpg">
+<img align="center" width="300" height="150" src="images/plan-images/jr_to_sr.jpg">
 
 At the same time, I'm going to apply to the Lambda School Full-Stack Web & Computer Science BootCamp course. I'm hoping that I get in so that I can add another sense of structure to my learning program. In addition, I going to take part in the 30 Days, 30 Website Challenge!!!
 
